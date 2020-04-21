@@ -1,4 +1,4 @@
-#include  "../include/myLib.h"
+#include  "../include/mylib.h"
 
 int addi(int a,int b)
 {
