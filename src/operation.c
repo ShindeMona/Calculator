@@ -1,3 +1,5 @@
+#include  "../include/myLib.h"
+
 int addi(int a,int b)
 {
   return (a+b);
