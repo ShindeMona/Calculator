@@ -1,6 +1,6 @@
 # Calculator that support -,+,/,* 
 # How to run
-make
+make<br/>
 ./output  6 2
 
 
