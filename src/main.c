@@ -1,4 +1,4 @@
-#include"myLib.h"
+#include  "../include/mylib.h"
 #include<stdio.h>
 int main(int argc ,char* argv[])
 {
